@@ -1,0 +1,13 @@
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.exe
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.deps.json
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.runtimeconfig.json
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.dll
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.pdb
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.dll
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.pdb
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MEtodosYProdiedadesDeString.csproj.AssemblyReference.cache
